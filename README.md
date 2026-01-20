@@ -29,7 +29,7 @@ I was surprised to see Renton stand out so noticeably on the I-405 word cloud ma
 - Export the two or more word clouds to the repository and then insert them to the readme.md. (5 PTS)
 
 ### I-5 Word Cloud
-![I-5](nugaiyen/458p2-web-crawler/images/word-cloud-1(i5).png)
+![I-5](https://github.com/nugaiyen/458p2-web-crawler/blob/main/images/word-cloud-1(i5).png)
 
 
 ### I-405 Word Cloud
