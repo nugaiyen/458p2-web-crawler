@@ -33,7 +33,7 @@ I was surprised to see Renton stand out so noticeably on the I-405 word cloud ma
 
 
 ### I-405 Word Cloud
-![I-405](nugaiyen/458p2-web-crawler/images/word-cloud-2(i405).png)
+![I-405](https://github.com/nugaiyen/458p2-web-crawler/blob/main/images/word-cloud-2(i405).png)
 
 
 - The readme.md also needs to include a url to download the result spreadsheets (csv file) of the collected data (5 PTS).
