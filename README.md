@@ -1,11 +1,13 @@
 # 458p2-web-crawler
 
 
-I have a personal favor of I-405 over I-5. I grew curious on if others had the same opinions. Also both I-405 and I-5 are under construction, with I-5 having more affect on traffic flow. I am curious to see the search results and to see weather the word cloud will provide more feelings based words or news based. 
+I have a personal favor of I-405 over I-5. I want to see if others had the same opinions. Also,  both I-405 and I-5 are under construction, with I-5 having more affect on traffic flow. I am curious to see the search results and to see weather the word cloud will provide more feelings based words or news based. 
 
-The search tearms I used for the I-5 word cloud is; "I-5 Washington", "I5 WA", "Interstate 5", "I-5 WA".
-For I-405 I used; "I-405 Washington", "I405 WA", "Interstate 405", "I-405 WA". 
-I wanted to keep the search terms relativly similar to eachother to keeo consistency when comparing. 
+**The search tearms:**
+- ["I-5 Washington", "I5 WA", "Interstate 5", "I-5 WA"]
+- ["I-405 Washington", "I405 WA", "Interstate 405", "I-405 WA"]
+
+I wanted to keep the search terms relativly similar to eachother to keek consistency when comparing. 
 
 For the I5 word cloud, the most prominate word was "Interstate" with "Washington" in smaller font right bellow it. This is the opposite for the I-405 word cloud. It's interesting how our search terms were identical for both interstate with only the exception of the name of the interstate, yet there is this clear differentative factor right off the bat. With further inspection we can see that "Seattle" is on both I-5 and I-405 with "Bellvue" only present in I-405. From this we could infer that people also use the I-405 to enter I-5 in order to reach Seattle. I am curious on the "Video" for my I-405 cloud map. Could this be mentioned because of the youtuber's ending comments or could this also be related to the toll cameras? Both cloud maps includes "Closure" which is expected due to construction being present on both interstate. However, unlike the I-405 cloud map, I-5 also includes "Close" in a relativly bigger size. Which i not much of a surprise as multiple lanes are being closed and holds a bigger affect on drivers for traffic flow.
 
